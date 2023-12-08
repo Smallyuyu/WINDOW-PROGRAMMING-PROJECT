@@ -1,0 +1,17 @@
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\bin\Debug\net6.0-windows\FinalProject.exe
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\bin\Debug\net6.0-windows\FinalProject.deps.json
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\bin\Debug\net6.0-windows\FinalProject.runtimeconfig.json
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\bin\Debug\net6.0-windows\FinalProject.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\bin\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.Form1.resources
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\refint\FinalProject.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.pdb
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\FinalProject\FinalProject\obj\Debug\net6.0-windows\ref\FinalProject.dll
