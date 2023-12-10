@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.exe.config
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.exe
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.pdb
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final_project_1210.Form1.resources
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final_project_1210.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.GenerateResource.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.exe
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.pdb
