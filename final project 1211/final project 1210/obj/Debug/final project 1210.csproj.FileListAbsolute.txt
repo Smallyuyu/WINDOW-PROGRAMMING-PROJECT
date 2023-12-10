@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.exe.config
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.exe
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\bin\Debug\final project 1210.pdb
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final_project_1210.Form1.resources
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final_project_1210.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.GenerateResource.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.exe
+C:\Users\user\Desktop\新增資料夾\WINDOW-PROGRAMMING-PROJECT\final project 1210\final project 1210\obj\Debug\final project 1210.pdb
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\bin\Debug\final project 1210.exe.config
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\bin\Debug\final project 1210.exe
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\bin\Debug\final project 1210.pdb
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final project 1210.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final_project_1210.Form1.resources
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final_project_1210.Properties.Resources.resources
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final project 1210.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final project 1210.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final project 1210.exe
+C:\Users\User\Source\Repos\WINDOW-PROGRAMMING-PROJECT\final project 1210_v2\final project 1210\obj\Debug\final project 1210.pdb
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\final project 1210.exe.config
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\final project 1210.exe
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\final project 1210.pdb
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.csproj.AssemblyReference.cache
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.csproj.SuggestedBindingRedirects.cache
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final_project_1210.Form1.resources
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final_project_1210.Properties.Resources.resources
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.csproj.GenerateResource.cache
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.csproj.CopyComplete
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.exe
+C:\Users\mugen\OneDrive\桌面\WINDOW-PROGRAMMING-PROJECT-main\WINDOW-PROGRAMMING-PROJECT-main\final project 1210_v3\final project 1210\obj\Debug\final project 1210.pdb
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\final project 1210.exe.config
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\final project 1210.exe
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\final project 1210.pdb
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.csproj.AssemblyReference.cache
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.csproj.SuggestedBindingRedirects.cache
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final_project_1210.Form1.resources
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final_project_1210.Properties.Resources.resources
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.csproj.GenerateResource.cache
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.csproj.CopyComplete
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.exe
+C:\Users\mugen\OneDrive\桌面\final project 1210_v4\final project 1210\obj\Debug\final project 1210.pdb
